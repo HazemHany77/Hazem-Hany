@@ -1,13 +1,20 @@
-<h1 align="center">📊 Hazem Hany - Data Portfolio</h1>
+<h1 align="center">📊 Hazem Hany</h1>
+
+<h2 align="center">Hi, I'm Hazem Hany 👋</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HazemHany77&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://github.com/HazemHany77"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/hazem-hany-a15a1028b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.kaggle.com/hazemkatta"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"></a>
-</p>
+## 👨‍💻 About Me
+
+- 📊 Passionate about turning data into actionable insights  
+- 🧠 Background in Economics with strong analytical thinking  
+- 📈 Focused on Data Analysis & Visualization  
+- 🔍 Experienced in working with real-world datasets  
+- 🚀 Continuously improving my analytical and technical skills  
 
 ---
 
@@ -47,8 +54,13 @@
 
 ---
 
-## 📈 About Me
-Data Analyst with a background in economics, focused on extracting insights from data and building clear, impactful visualizations.
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/HazemHany77"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/hazem-hany-a15a1028b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.kaggle.com/hazemkatta"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"></a>
+</p>
 
 ---
 
