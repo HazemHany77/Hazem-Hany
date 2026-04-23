@@ -1,4 +1,4 @@
-<h1 align="center">Hazem Hany</h1>
+<h1 align="center">Hazem Hany Mohammed</h1>
 
 <p align="center">
   Data Analyst with an economics background
